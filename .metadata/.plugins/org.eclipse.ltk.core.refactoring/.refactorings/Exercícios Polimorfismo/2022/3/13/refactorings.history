@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;Mamífero.java&apos; to &apos;mamifero.java&apos;&#x0D;&#x0A;- Original project: &apos;Exercícios Polimorfismo&apos;&#x0D;&#x0A;- Original element: &apos;Mamífero.java&apos;&#x0D;&#x0A;- Renamed element: &apos;mamifero.java&apos;" description="Rename compilation unit &apos;Mamífero.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;{Mamífero.java" name="mamifero.java" references="false" stamp="1647793191112" version="1.0"/>
+</session>

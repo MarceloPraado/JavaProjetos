@@ -1,0 +1,4 @@
+
+public class mamifero extends Animal {
+	
+	}

@@ -1,0 +1,22 @@
+
+public class Main {
+
+	public static void main(String[] args) {
+		mamifero cachorro = new mamifero();
+		Reptil lagarto = new Reptil();
+		Peixe dourado = new Peixe();
+		Passaro tucano = new Passaro();
+		
+		cachorro.setPeso(35.3);
+		cachorro.setCorpelo("Marrom");
+		cachorro.setIdade(2);
+		cachorro.setMembros(4);
+		cachorro.alimentar();
+		cachorro.locomover();
+		cachorro.Emitirsom();
+		
+		
+
+	}
+
+}

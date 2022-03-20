@@ -1,0 +1,11 @@
+
+public class Main {
+
+	public static void main(String[] args) {
+	
+		Aluno a1 = new Aluno("João", "CPF", 86244);
+		a1.imprime();
+
+	}
+
+}

@@ -1,0 +1,21 @@
+
+public class Peixe extends Animal{
+	
+	private String CorEscama;
+	
+	@Override
+	public void locomover() {
+		System.out.print("Nadando");
+	}
+	
+	@Override
+	public void alimentar() {
+		System.out.print("Mastigando");
+	}
+	
+	@Override 
+	public void Emitirsom() {
+		System.out.print("");
+	}
+}
+

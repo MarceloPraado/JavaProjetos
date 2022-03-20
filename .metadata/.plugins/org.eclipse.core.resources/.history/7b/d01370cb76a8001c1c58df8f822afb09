@@ -1,0 +1,20 @@
+
+public class mamifero extends Animal {
+	
+	private String Corpelo;
+	
+	@Override
+	public void locomover() {
+		System.out.print("Correndo");
+	}
+	
+	@Override
+	public void alimentar() {
+		System.out.print("Mastigando");
+	}
+	
+	@Override 
+	public void Emitirsom() {
+		System.out.print("Som de mamífero");
+	}
+	}

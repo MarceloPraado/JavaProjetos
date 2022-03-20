@@ -1,0 +1,6 @@
+
+public class mamifero extends Animal {
+	
+	private String Corpelo;
+	
+	}

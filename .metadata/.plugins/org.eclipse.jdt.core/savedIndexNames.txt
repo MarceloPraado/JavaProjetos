@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+C:\Users\ASRock\Documents\JavaProjetos\.metadata\.plugins\org.eclipse.jdt.core
+1650449417.index
+1554694843.index
+313581342.index
+1860440102.index
+1831490755.index

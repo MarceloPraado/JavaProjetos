@@ -1,0 +1,11 @@
+
+public class mamifero extends Animal {
+	
+	private String Corpelo;
+	
+	@Override
+	public void locomover() {
+		System.out.print("Correr");
+		
+	}
+	}

@@ -1,0 +1,14 @@
+
+public class Main {
+
+	public static void main(String[] args) {
+		mamifero cachorro = new mamifero();
+		Reptil lagarto = new Reptil();
+		Peixe dourado = new Peixe();
+		Passaro tucano = new Passaro();
+		
+		
+
+	}
+
+}
